@@ -8,6 +8,18 @@
     height: 182px;
 }
 
+header {
+    background-color: #ffffff;
+}
+
+body {
+    background-color: #C4C4C4;
+}
+
+footer {
+    background-color: #ffffff;
+}
+
 img {
     margin-bottom: 10px;
 }
